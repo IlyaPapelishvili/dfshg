@@ -1,18 +1,18 @@
-В чистом Маркдауне нет синтаксиса для таблиц, à GFM есть.
+
 
 Premier en-tête | Deuxième en-tête
 --- | ---
 Cellule de contenu | Cellule de contenu
 Cellule de contenu | Cellule de contenu
 
-Для красоты можно и по бокам линии нарисовать:
+
 
 Premier en-tête | Deuxième en-tête
 --- | ---
 Cellule de contenu | Cellule de contenu
 Cellule de contenu | Cellule de contenu
 
-Можно управлять выравниванием столбцов при помощи двоеточия.
+
 
 Aligné à gauche | Centre aligné | Aligné à droite
 :-- | :-: | --:
